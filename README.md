@@ -21,7 +21,8 @@ This project enables you to store and manage student information, including Roll
 - It has high performing capability
 - No external setup needed, easy to plug-and-play
 - Supports real-time update and retrieval
-- It also supports various types of data models, and offers fast CRUD operations due to in-memory indexing
+- It also supports various types of data modes, including Document-oriented, Key-Value pair, RDBMS, Caching DB, Time-Series API support, Pluggable API Development, and GEOSpatial
+- offers fast CRUD operations due to in-memory indexing
 - It also provides high security because it has secured token-based REST APIs
 
 ## Release History:
